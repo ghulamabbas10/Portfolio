@@ -3,7 +3,7 @@
 body {
   background-color: #e5e5e5;
   padding: 0;
-  margin: 0;
+  margin: auto;
 }
 
 .hero {
@@ -23,6 +23,7 @@ main {
   width: 100vw;
   height: 100vh;
   border-radius: 0 0 0 15%;
+  max-width: 375px;
 }
 
 header {
@@ -51,7 +52,7 @@ nav {
   font-family: 'Poppins', Arial, Helvetica, sans-serif;
   font-style: normal;
   font-weight: 700;
-  font-size: 40px;
+  font-size: 45px;
   line-height: 52px;
   margin-top: 140px;
   padding-left: 32px;
