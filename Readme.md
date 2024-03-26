@@ -15,7 +15,7 @@ This project is a portfolio website showcasing the work and skills of Ghulam Abb
 - Figma (for design)
 
 ## Getting Started
-To view the website, simply [click here](#) to visit the deployed version on GitHub Pages.
+To view the website, simply [click here](https://ghulamabbas10.github.io/Portfolio/) to visit the deployed version on GitHub Pages.
 
 To run the project locally, follow these steps:
 1. Clone the repository to your local machine.
